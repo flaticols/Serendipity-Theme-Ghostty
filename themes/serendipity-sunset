@@ -1,0 +1,26 @@
+# Serendipity Sunset
+# Ported from Serendipity Theme for Zed
+
+palette = 0=#363847
+palette = 1=#D1918F
+palette = 2=#AAC9D4
+palette = 3=#EDD5D6
+palette = 4=#709BBD
+palette = 5=#A392DC
+palette = 6=#A0B6E8
+palette = 7=#DEE0EF
+palette = 8=#6B6D7C
+palette = 9=#D1918F
+palette = 10=#AAC9D4
+palette = 11=#EDD5D6
+palette = 12=#709BBD
+palette = 13=#A392DC
+palette = 14=#A0B6E8
+palette = 15=#DEE0EF
+
+background = #272938
+foreground = #DEE0EF
+cursor-color = #DEE0EF
+cursor-text = #272938
+selection-background = #6B6D7C
+selection-foreground = #DEE0EF
