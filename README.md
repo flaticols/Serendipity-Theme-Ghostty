@@ -57,6 +57,15 @@ ghostty +list-themes | grep serendipity
 
 # Screenshots Under this heading
 
+<img width="1491" height="1174" alt="image" src="https://github.com/user-attachments/assets/45561e7f-45a6-49c3-8eb8-0b3fb1c60cd4" />
+
+<img width="1491" height="1174" alt="image" src="https://github.com/user-attachments/assets/901040df-1402-4017-84e6-72778834d02d" />
+
+<img width="1491" height="1174" alt="image" src="https://github.com/user-attachments/assets/61588488-2fb6-45e2-9693-9212a62c01b9" />
+
+<img width="1491" height="1174" alt="image" src="https://github.com/user-attachments/assets/f0e69979-65b9-47ec-9d31-444c8c59af2d" />
+
+
 # Who ported the theme?
 
 Ported by [flaticols](https://github.com/flaticols) from the original [Serendipity Theme for Zed](https://github.com/meocoder31099/Serendipity-Theme-Zed).
